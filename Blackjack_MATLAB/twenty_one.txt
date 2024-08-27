@@ -1,0 +1,9 @@
+1. the number of players
+2. create and shuffle the deck
+3. draw two cards each
+4. make choice for more draws
+5. calculate points
+6. determine winner
+
+- keep track of number of cards drawn by each player
+- library of values
